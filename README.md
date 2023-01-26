@@ -43,5 +43,7 @@ const aboutMe = {
 <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/344/python--v1.png" alt="python" width="43" height="43"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 
+<h2 align="left">Packages</h2>
+<a href="https://www.npmjs.com/package/@kiwibot/kiwiui">kiwiui - Component Library</a>
 <p align="justified">Feel free to snoop around in my projects, you'll find various experiments and maybe even something to convince you to hire me :wink:</p>
 <hr>
