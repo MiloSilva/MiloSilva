@@ -6,18 +6,21 @@
 
 ```javascript
 const aboutMe = {
-   languages: ['HTML', 'CSS', 'Typescript', 'Python', C#],
+   languages: ['HTML', 'CSS', 'TS', 'JS', 'SQL', 'Python'],
    technologies: {
+      infrastructure: {
+         aws: ['lambda', 'sqs', 'ses', 'RDS', 'DynamoDB', 'S3']
+      },
       frontEnd: {
          js: ['React', 'Redux']
       },
       backEnd: {
          js: ['NodeJS', 'ExpressJS'],
-         cs: ['ASP.NET']
+         py: ['django']
       },
       databases: ['MongoDB', 'PostgreSQL', 'firestore'],
    },
-   currentOccupation: ['Full Stack Dev @ kiwibot'],
+   currentOccupation: ['Full Stack Dev @ Neostella'],
    hobbies: ['Tech', 'Science']
 };
 ```
